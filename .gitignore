@@ -1,0 +1,26 @@
+# CODE
+**/camera_data/
+**/camera_test/test_data/
+**/picture/
+**/logs/
+**/doc/
+
+# ROS2
+**/build/
+**/install/
+**/log/
+
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# CLion
+.idea/
+cmake-build-*/
+
+# Linux
+*.swp
+.DS_Store
